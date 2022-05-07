@@ -1,6 +1,6 @@
 ## Welcome to GDCS Uba
 **Hello HERE**
-- I'am Akashi
+- I'am Ndongmo Christian 
 - [Github](https://github.com/Akashiutchiha)
 - [facebook](https://www.facebook.com/akashi.utchiha)
 - [Twitter](https://twitter.com/@Akashiutchiha)
@@ -8,3 +8,4 @@
 - Best Picture
 
   ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37Sdg4Qbbdr6WIrtMIbcNrAIS1nkg1E_eckQdZfBONjhj1xhc)
+
